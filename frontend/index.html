@@ -1,0 +1,15 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Internship Listing Portal</title><link rel="stylesheet" href="style.css"></head>
+<body data-page="list"><main class="container">
+<section class="hero"><h1>Find your next internship</h1><p>Search and filter by role, location, domain, duration and work mode.</p></section>
+<form id="filters" class="filters" role="search" autocomplete="off">
+<input id="search" type="search" placeholder="Search role, skill or company" aria-label="Search internships">
+<select id="location" aria-label="Location"><option value="">All locations</option></select>
+<select id="domain" aria-label="Domain"><option value="">All domains</option></select>
+<select id="duration" aria-label="Duration"><option value="">Any duration</option></select>
+<select id="work_mode" aria-label="Work mode"><option value="">Any work mode</option><option>Remote</option><option>Onsite</option><option>Hybrid</option></select>
+<select id="min_stipend" aria-label="Minimum stipend"><option value="">Any stipend</option><option value="5000">₹5,000+</option><option value="10000">₹10,000+</option><option value="15000">₹15,000+</option><option value="20000">₹20,000+</option></select>
+<select id="sort" aria-label="Sort"><option value="newest">Newest first</option><option value="deadline">Deadline (soonest)</option></select>
+<button type="button" id="clear" class="btn secondary">Clear filters</button>
+</form>
+<p id="count" aria-live="polite" class="count"></p><div id="grid" class="grid"></div><nav id="pager" class="pager" aria-label="Pagination"></nav>
+</main><script src="config.js"></script><script src="script.js"></script></body></html>

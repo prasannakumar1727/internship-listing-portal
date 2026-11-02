@@ -1,0 +1,15 @@
+.env
+venv/
+__pycache__/
+*.pyc
+database/portal.db
+uploads/*
+!uploads/.gitkeep
+node_modules/
+android/build/
+android/app/build/
+android/.gradle/
+android/local.properties
+.idea/
+.vscode/
+*.zip

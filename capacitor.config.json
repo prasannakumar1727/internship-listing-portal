@@ -1,0 +1,6 @@
+{
+  "appId": "com.example.internshipportal",
+  "appName": "Internship Portal",
+  "webDir": "frontend",
+  "server": { "androidScheme": "http", "cleartext": true }
+}

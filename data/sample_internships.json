@@ -1,0 +1,267 @@
+[
+  {
+    "title": "Web Development Intern",
+    "company": "BrightApps Technologies",
+    "location": "Chennai",
+    "domain": "Web Development",
+    "duration_months": 3,
+    "stipend": 10000,
+    "work_mode": "Hybrid",
+    "description": "Build and ship responsive features for client web apps using HTML, CSS, JavaScript and React.",
+    "requirements": [
+      "HTML, CSS and JavaScript basics",
+      "Familiarity with Git",
+      "Willingness to learn React"
+    ],
+    "benefits": [
+      "Certificate of completion",
+      "Mentorship from senior engineers",
+      "Letter of recommendation on strong performance"
+    ],
+    "deadline": "2026-12-15"
+  },
+  {
+    "title": "UI/UX Design Intern",
+    "company": "PixelNest Studio",
+    "location": "Bengaluru",
+    "domain": "Design",
+    "duration_months": 2,
+    "stipend": 12000,
+    "work_mode": "Remote",
+    "description": "Design wireframes and high-fidelity prototypes for mobile and web products.",
+    "requirements": [
+      "Figma portfolio",
+      "Basic design-thinking knowledge",
+      "Good communication"
+    ],
+    "benefits": [
+      "Certificate of completion",
+      "Mentorship from senior engineers",
+      "Letter of recommendation on strong performance"
+    ],
+    "deadline": "2026-11-30"
+  },
+  {
+    "title": "Data Analyst Intern",
+    "company": "DataLeaf Analytics",
+    "location": "Chennai",
+    "domain": "Data Science",
+    "duration_months": 4,
+    "stipend": 15000,
+    "work_mode": "Onsite",
+    "description": "Clean data, build dashboards and present insights to business teams.",
+    "requirements": [
+      "Python or SQL basics",
+      "Excel proficiency",
+      "Statistics fundamentals"
+    ],
+    "benefits": [
+      "Stipend",
+      "Certificate",
+      "Real project exposure"
+    ],
+    "deadline": "2027-01-10"
+  },
+  {
+    "title": "Backend Developer Intern",
+    "company": "CloudBay Systems",
+    "location": "Hyderabad",
+    "domain": "Web Development",
+    "duration_months": 6,
+    "stipend": 18000,
+    "work_mode": "Hybrid",
+    "description": "Design REST APIs and database schemas with Python and Flask.",
+    "requirements": [
+      "Python",
+      "SQL basics",
+      "Understanding of REST"
+    ],
+    "benefits": [
+      "Certificate of completion",
+      "Mentorship from senior engineers",
+      "Letter of recommendation on strong performance"
+    ],
+    "deadline": "2026-12-20"
+  },
+  {
+    "title": "Digital Marketing Intern",
+    "company": "GrowthSpark Media",
+    "location": "Mumbai",
+    "domain": "Marketing",
+    "duration_months": 3,
+    "stipend": 8000,
+    "work_mode": "Remote",
+    "description": "Plan social campaigns, write copy and track campaign analytics.",
+    "requirements": [
+      "Strong writing skills",
+      "Social media familiarity"
+    ],
+    "benefits": [
+      "Certificate of completion",
+      "Mentorship from senior engineers",
+      "Letter of recommendation on strong performance"
+    ],
+    "deadline": "2026-12-05"
+  },
+  {
+    "title": "Machine Learning Intern",
+    "company": "NeuroForge Labs",
+    "location": "Bengaluru",
+    "domain": "Data Science",
+    "duration_months": 6,
+    "stipend": 25000,
+    "work_mode": "Hybrid",
+    "description": "Train and evaluate ML models for text classification problems.",
+    "requirements": [
+      "Python, NumPy, pandas",
+      "Basic ML concepts",
+      "Curiosity about NLP"
+    ],
+    "benefits": [
+      "Stipend",
+      "Research mentorship",
+      "Pre-placement opportunity"
+    ],
+    "deadline": "2027-01-25"
+  },
+  {
+    "title": "Android App Intern",
+    "company": "AppWave Mobility",
+    "location": "Chennai",
+    "domain": "Mobile Development",
+    "duration_months": 3,
+    "stipend": 12000,
+    "work_mode": "Onsite",
+    "description": "Develop and test Android features in Kotlin and Capacitor-based hybrid apps.",
+    "requirements": [
+      "Java or Kotlin basics",
+      "Understanding of mobile UI"
+    ],
+    "benefits": [
+      "Certificate of completion",
+      "Mentorship from senior engineers",
+      "Letter of recommendation on strong performance"
+    ],
+    "deadline": "2026-12-28"
+  },
+  {
+    "title": "Graphic Design Intern",
+    "company": "BlueOrbit Creatives",
+    "location": "Pune",
+    "domain": "Design",
+    "duration_months": 2,
+    "stipend": 7000,
+    "work_mode": "Remote",
+    "description": "Create social media graphics, banners and brand collateral.",
+    "requirements": [
+      "Photoshop or Canva skills",
+      "Creative portfolio"
+    ],
+    "benefits": [
+      "Certificate",
+      "Portfolio pieces",
+      "Flexible hours"
+    ],
+    "deadline": "2026-11-25"
+  },
+  {
+    "title": "Content Writing Intern",
+    "company": "WordCraft Digital",
+    "location": "Coimbatore",
+    "domain": "Marketing",
+    "duration_months": 1,
+    "stipend": 5000,
+    "work_mode": "Remote",
+    "description": "Write blog posts and product descriptions for technology brands.",
+    "requirements": [
+      "Excellent English writing",
+      "Research skills"
+    ],
+    "benefits": [
+      "Certificate",
+      "Published bylines"
+    ],
+    "deadline": "2026-11-18"
+  },
+  {
+    "title": "Cybersecurity Intern",
+    "company": "SecureNet Solutions",
+    "location": "Chennai",
+    "domain": "Cybersecurity",
+    "duration_months": 4,
+    "stipend": 14000,
+    "work_mode": "Hybrid",
+    "description": "Assist with vulnerability assessments and security monitoring.",
+    "requirements": [
+      "Networking fundamentals",
+      "Linux basics",
+      "Interest in ethical hacking"
+    ],
+    "benefits": [
+      "Certificate of completion",
+      "Mentorship from senior engineers",
+      "Letter of recommendation on strong performance"
+    ],
+    "deadline": "2027-02-05"
+  },
+  {
+    "title": "Business Analyst Intern",
+    "company": "Orbit Consulting",
+    "location": "Delhi",
+    "domain": "Business",
+    "duration_months": 3,
+    "stipend": 10000,
+    "work_mode": "Onsite",
+    "description": "Gather requirements, document workflows and support client reports.",
+    "requirements": [
+      "Strong Excel skills",
+      "Analytical thinking"
+    ],
+    "benefits": [
+      "Certificate of completion",
+      "Mentorship from senior engineers",
+      "Letter of recommendation on strong performance"
+    ],
+    "deadline": "2027-01-15"
+  },
+  {
+    "title": "QA Testing Intern",
+    "company": "TestBridge Software",
+    "location": "Chennai",
+    "domain": "Quality Assurance",
+    "duration_months": 3,
+    "stipend": 9000,
+    "work_mode": "Hybrid",
+    "description": "Write test cases, run manual tests and report bugs.",
+    "requirements": [
+      "Attention to detail",
+      "Basic understanding of SDLC"
+    ],
+    "benefits": [
+      "Certificate of completion",
+      "Mentorship from senior engineers",
+      "Letter of recommendation on strong performance"
+    ],
+    "deadline": "2026-12-12"
+  },
+  {
+    "title": "Cloud Support Intern",
+    "company": "SkyGrid Technologies",
+    "location": "Hyderabad",
+    "domain": "Cloud Computing",
+    "duration_months": 5,
+    "stipend": 16000,
+    "work_mode": "Remote",
+    "description": "Support cloud deployments and monitor infrastructure health.",
+    "requirements": [
+      "Linux basics",
+      "Any cloud platform familiarity"
+    ],
+    "benefits": [
+      "Certificate of completion",
+      "Mentorship from senior engineers",
+      "Letter of recommendation on strong performance"
+    ],
+    "deadline": "2026-10-15"
+  }
+]

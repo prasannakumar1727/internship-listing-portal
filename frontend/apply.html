@@ -1,0 +1,12 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Apply</title><link rel="stylesheet" href="style.css"></head>
+<body data-page="apply"><main class="container narrow"><h1>Apply for internship</h1><p id="target" class="company"></p>
+<div id="banner" class="banner" hidden role="alert"></div>
+<form id="form" novalidate>
+<div class="field"><label for="name">Full name *</label><input id="name" name="name" autocomplete="name" maxlength="100"><span class="err" data-for="name"></span></div>
+<div class="field"><label for="email">Email *</label><input id="email" name="email" type="email" autocomplete="email"><span class="err" data-for="email"></span></div>
+<div class="field"><label for="phone">Phone (10-digit mobile) *</label><input id="phone" name="phone" type="tel" autocomplete="tel"><span class="err" data-for="phone"></span></div>
+<div class="field"><label for="resume_link">Resume link</label><input id="resume_link" name="resume_link" type="url" placeholder="https://drive.google.com/…"><span class="err" data-for="resume_link"></span></div>
+<div class="field"><label for="resume_file">…or upload resume (PDF/DOCX, max 5 MB)</label><input id="resume_file" name="resume_file" type="file" accept=".pdf,.docx"><span class="err" data-for="resume_file"></span></div>
+<div class="field"><label for="cover_note">Cover note (max 500 characters)</label><textarea id="cover_note" name="cover_note" rows="4" maxlength="500"></textarea><span class="err" data-for="cover_note"></span></div>
+<button id="submit" class="btn" type="submit">Submit application</button>
+</form></main><script src="config.js"></script><script src="script.js"></script></body></html>

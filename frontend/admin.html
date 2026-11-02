@@ -1,0 +1,13 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Admin</title><link rel="stylesheet" href="style.css"></head>
+<body data-page="admin"><main class="container"><h1>Admin</h1>
+<div class="filters"><input id="key" type="password" placeholder="Admin key" aria-label="Admin key"><button class="btn" id="load" type="button">Load</button></div>
+<div id="adminmsg" class="banner" hidden></div>
+<h2>Applications</h2><div class="tablewrap"><table id="apps"><thead><tr><th>ID</th><th>Internship</th><th>Name</th><th>Email</th><th>Phone</th><th>Resume</th><th>Applied</th><th>Status</th></tr></thead><tbody></tbody></table></div>
+<h2>Add internship</h2>
+<form id="addform" class="grid2" novalidate>
+<input name="title" placeholder="Title"><input name="company" placeholder="Company"><input name="location" placeholder="Location"><input name="domain" placeholder="Domain">
+<select name="work_mode"><option>Remote</option><option>Onsite</option><option>Hybrid</option></select><input name="duration_months" type="number" min="1" placeholder="Duration (months)">
+<input name="stipend" type="number" min="0" placeholder="Stipend per month (₹)"><input name="deadline" type="date">
+<textarea name="description" placeholder="Description" rows="3"></textarea><textarea name="requirements" placeholder="Requirements (one per line)" rows="3"></textarea>
+<textarea name="benefits" placeholder="Benefits (one per line)" rows="3"></textarea><button class="btn" type="submit">Add internship</button></form>
+</main><script src="config.js"></script><script src="script.js"></script></body></html>
